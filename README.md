@@ -19,5 +19,8 @@ Our solution will contribute in bringing the spirit of “Clean-up Australia Day
 In addition to this, the data collected can be widely used with open government data such as Pedestrian traffic and Council furniture and Fixture locations, etc. to understand community behaviour towards littering, associated trends and patterns, assigning corporate responsibility, and identifying socio-economic drivers.
 
 
+## Award:
+
+**Victoria State Award, GovHack 2017**
 
 [GovHack Australia 2017 page](https://2017.hackerspace.govhack.org/project/litterly-awesome)
